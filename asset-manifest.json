@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Porfolio-FernandoBahia/static/css/main.0a6df27e.css",
-    "main.js": "/Porfolio-FernandoBahia/static/js/main.36593ae0.js",
+    "main.js": "/Porfolio-FernandoBahia/static/js/main.d49588d5.js",
     "static/js/415.4d6acbeb.chunk.js": "/Porfolio-FernandoBahia/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Porfolio-FernandoBahia/static/js/787.1ed0c42c.chunk.js",
     "static/media/acsiv.PNG": "/Porfolio-FernandoBahia/static/media/acsiv.be753499bc1bd15fea1e.PNG",
@@ -14,12 +14,12 @@
     "static/media/pre.svg": "/Porfolio-FernandoBahia/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Porfolio-FernandoBahia/index.html",
     "main.0a6df27e.css.map": "/Porfolio-FernandoBahia/static/css/main.0a6df27e.css.map",
-    "main.36593ae0.js.map": "/Porfolio-FernandoBahia/static/js/main.36593ae0.js.map",
+    "main.d49588d5.js.map": "/Porfolio-FernandoBahia/static/js/main.d49588d5.js.map",
     "415.4d6acbeb.chunk.js.map": "/Porfolio-FernandoBahia/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Porfolio-FernandoBahia/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a6df27e.css",
-    "static/js/main.36593ae0.js"
+    "static/js/main.d49588d5.js"
   ]
 }
