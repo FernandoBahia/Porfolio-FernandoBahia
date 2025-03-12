@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Porfolio-FernandoBahia/static/css/main.0a6df27e.css",
-    "main.js": "/Porfolio-FernandoBahia/static/js/main.d49588d5.js",
-    "static/js/415.4d6acbeb.chunk.js": "/Porfolio-FernandoBahia/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Porfolio-FernandoBahia/static/js/787.1ed0c42c.chunk.js",
-    "static/media/acsiv.PNG": "/Porfolio-FernandoBahia/static/media/acsiv.be753499bc1bd15fea1e.PNG",
-    "static/media/memoji.png": "/Porfolio-FernandoBahia/static/media/memoji.26ed191cfaf5189163d9.png",
-    "static/media/curriculo.pdf": "/Porfolio-FernandoBahia/static/media/curriculo.3ac23cd79a97fbb8d50c.pdf",
-    "static/media/home-bg.jpg": "/Porfolio-FernandoBahia/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/print.saep.PNG": "/Porfolio-FernandoBahia/static/media/print.saep.1256ef46c70cb7bebe5f.PNG",
-    "static/media/logofb.png": "/Porfolio-FernandoBahia/static/media/logofb.692d066c30435444a1f3.png",
-    "static/media/print.veiculos.PNG": "/Porfolio-FernandoBahia/static/media/print.veiculos.e8ef8c29a924c10af02f.PNG",
-    "static/media/pre.svg": "/Porfolio-FernandoBahia/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/Porfolio-FernandoBahia/index.html",
-    "main.0a6df27e.css.map": "/Porfolio-FernandoBahia/static/css/main.0a6df27e.css.map",
-    "main.d49588d5.js.map": "/Porfolio-FernandoBahia/static/js/main.d49588d5.js.map",
-    "415.4d6acbeb.chunk.js.map": "/Porfolio-FernandoBahia/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Porfolio-FernandoBahia/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio.att/static/css/main.e40edf34.css",
+    "main.js": "/Portfolio.att/static/js/main.4760ebe4.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio.att/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio.att/static/js/787.1ed0c42c.chunk.js",
+    "static/media/acsiv.PNG": "/Portfolio.att/static/media/acsiv.be753499bc1bd15fea1e.PNG",
+    "static/media/memoji.png": "/Portfolio.att/static/media/memoji.26ed191cfaf5189163d9.png",
+    "static/media/curriculo.pdf": "/Portfolio.att/static/media/curriculo.3ac23cd79a97fbb8d50c.pdf",
+    "static/media/home-bg.jpg": "/Portfolio.att/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/print.saep.PNG": "/Portfolio.att/static/media/print.saep.1256ef46c70cb7bebe5f.PNG",
+    "static/media/logofb.png": "/Portfolio.att/static/media/logofb.692d066c30435444a1f3.png",
+    "static/media/print.veiculos.PNG": "/Portfolio.att/static/media/print.veiculos.e8ef8c29a924c10af02f.PNG",
+    "static/media/pre.svg": "/Portfolio.att/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio.att/index.html",
+    "main.e40edf34.css.map": "/Portfolio.att/static/css/main.e40edf34.css.map",
+    "main.4760ebe4.js.map": "/Portfolio.att/static/js/main.4760ebe4.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio.att/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio.att/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a6df27e.css",
-    "static/js/main.d49588d5.js"
+    "static/css/main.e40edf34.css",
+    "static/js/main.4760ebe4.js"
   ]
 }
